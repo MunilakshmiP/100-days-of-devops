@@ -61,6 +61,8 @@ DevOps emerged from the need for better collaboration between development and op
 
 ## DevOps Lifecycle Stages
 
+![Screenshot 2024-10-27 162649](https://github.com/user-attachments/assets/90253a14-1c53-4971-808f-546868d9ff13)
+
 1. **Plan:** Set up a roadmap and identify functionalities and deadlines.
 2. **Code:** Develop features using version control systems.
 3. **Build:** Package code into a build.
@@ -74,4 +76,5 @@ DevOps emerged from the need for better collaboration between development and op
 
 ## Conclusion
 In summary, we explored DevOps and its evolution into DevSecOps, emphasizing the importance of collaboration and security in the software development lifecycle. By bridging the gap between development and operations, teams achieve faster delivery, improved collaboration, and enhanced security. The key principles, including continuous improvement and customer-centric action, demonstrate how organizations can create high-quality products and ensure customer satisfaction. Integrating these practices is essential for success in today's fast-paced digital landscape.
+
 
