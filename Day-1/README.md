@@ -1,6 +1,4 @@
-for i in {1..100}; do
-  mkdir -p "day$i"
-  
+
 # Day 1: Introduction to DevOps
 
 ## What is DevOps?
