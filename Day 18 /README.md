@@ -1,5 +1,5 @@
 
-## # Docker Interview Questions and Answers (Part 2) — Advanced Scenarios
+## Docker Interview Questions and Answers (Part 2) — Advanced Scenarios
 
 
 
