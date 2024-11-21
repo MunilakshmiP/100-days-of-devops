@@ -4,7 +4,7 @@ Welcome to an exciting day in your DevOps journey! Today, we’re stepping into 
 
 ----------
 
-### **1. What is Cloud Computing?**
+### **1. What is Cloud Computing ?**
 
 Think of the cloud as a magical space where you can access powerful computers, storage, and services without needing to own or manage physical hardware. This allows you to focus on creating and running applications while the cloud takes care of the heavy lifting!
 
