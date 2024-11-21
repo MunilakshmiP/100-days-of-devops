@@ -1,6 +1,6 @@
 # Discovering the Magic of the Cloud in DevOps
 
-Welcome to an exciting day in your DevOps journey! 🌥️ Today, we’re stepping into the dynamic world of **cloud computing**—a game-changer that brings speed, flexibility, and innovation to how we build, deploy, and scale applications. By the end of this day, you’ll see why cloud computing is at the heart of modern DevOps practices. Let's dive in with joy and enthusiasm! ✨
+Welcome to an exciting day in your DevOps journey! Today, we’re stepping into the dynamic world of **cloud computing**—a game-changer that brings speed, flexibility, and innovation to how we build, deploy, and scale applications. By the end of this day, you’ll see why cloud computing is at the heart of modern DevOps practices. Let's dive in with joy and enthusiasm! ✨
 
 ----------
 
