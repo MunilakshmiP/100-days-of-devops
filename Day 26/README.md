@@ -1,7 +1,7 @@
 # Automating Workflows with Webhook Triggers in Jenkins
 
 Automating Workflows with Webhook Triggers in Jenkins
-Welcome back! 🌟 Today, we’re diving into **webhooks**, a fundamental tool that connects repositories with Jenkins to create a smooth, automated workflow. Let’s explore this process step by step, connecting each concept and enriching your understanding. By the end, you’ll have the knowledge to configure a webhook in Bitbucket, integrate it with Jenkins, and witness seamless automation. Let’s make your DevOps journey more interactive and rewarding!
+Welcome back! 🌟 Today, we’re diving into **webhooks**, a fundamental tool that connects repositories with Jenkins to create a smooth, automated workflow. Let’s explore this process step by step, connecting each concept and enriching your understanding. By the end, you’ll have the knowledge to configure a webhook in Bitbucket, integrate it with Jenkins, and witness seamless automation. Let’s make your DevOps journey more interactive and rewarding!!
 
 ----------
 
