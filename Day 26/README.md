@@ -11,7 +11,7 @@ A **webhook** is a mechanism that enables one system to notify another about eve
 
 -   **Real-Time Automation**: Unlike polling, where Jenkins periodically checks for updates, webhooks send notifications instantly when changes occur.
     
--   **Reduced Resource Consumption**: Polling can consume system resources; webhooks eliminate this overhead by acting only when needed.
+-   **Reduced Resource Consumption**: Polling can consume system resources; webhooks eliminate this overhead by acting only when needed
     
 
 ----------
