@@ -5,7 +5,7 @@ Welcome back! 🌟 Today, we’re diving into **webhooks**, a fundamental tool t
 
 ----------
 
-### **What Are Webhooks?**
+### **What Are Webhooks ?**
 
 A **webhook** is a mechanism that enables one system to notify another about events in real time. Think of it as an instant messenger for tools—whenever there’s a significant event (like a code push), the webhook informs Jenkins, which then triggers the corresponding job.
 
