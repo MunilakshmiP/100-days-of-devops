@@ -1,5 +1,5 @@
 # Automating Secrets Management with Jenkins Credentials Plugin
-Welcome back to Day 28 of your DevOps journey! Today’s focus is on  **secrets management**, a vital practice for securely handling sensitive data like passwords, API tokens, and SSH keys. With Jenkins'  **Credentials Plugin**, you can manage secrets efficiently while ensuring they remain secure throughout your CI/CD pipelines. Let’s dive deeper into how to set this up and implement it effectively. 
+Welcome back to Day 28 of your DevOps journey! Today’s focus is on  **secrets management**, a vital practice for securely handling sensitive data like passwords, API tokens, and SSH keys. With Jenkins'  **Credentials Plugin**, you can manage secrets efficiently while ensuring they remain secure throughout your CI/CD pipelines. Let’s dive deeper into how to set this up and implement it effectively.
 
 ----------
 
