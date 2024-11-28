@@ -125,4 +125,4 @@ A  **Shared Library**  in Jenkins is a way to store and share reusable Groovy sc
 
 Shared Libraries are a game-changer for teams working with Jenkins pipelines. By centralizing and standardizing your pipeline logic, you unlock efficiency, scalability, and collaboration. Whether you’re deploying a single app or managing hundreds of pipelines, Shared Libraries simplify and elevate your CI/CD workflows.
 
-Ready to streamline your pipelines and scale with ease? Dive into Shared Libraries today and share the Jenkins magic with your team! ✨
+Ready to streamline your pipelines and scale with ease? Dive into Shared Libraries today and share the Jenkins magic with your team! 
