@@ -1,6 +1,7 @@
 # Jenkins Shared Libraries – Reusable Automation for Scalable Pipelines
 Hello there, Jenkins adventurers! 🌟  
 Today, we’re exploring  **Shared Libraries**  in Jenkins—a powerful feature that can transform how you build and manage pipelines in large-scale environments. If you're working in a team or handling multiple projects, Shared Libraries help centralize reusable code, making your pipelines more efficient and consistent.
+
 ----------
 
 ### [](https://100daysdevops.hashnode.dev/day-33-of-100-days-jenkins-shared-libraries-reusable-automation-for-scalable-pipelines#heading-what-are-jenkins-shared-libraries "Permalink")**What are Jenkins Shared Libraries?**
