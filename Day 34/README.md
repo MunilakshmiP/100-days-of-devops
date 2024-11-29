@@ -4,7 +4,7 @@
 
 Today marks the beginning of an exciting journey into **Amazon Web Services (AWS)**—a platform that powers some of the most innovative companies worldwide. Over the next 10-15 days, we’ll explore AWS step-by-step, starting with the basics: **Creating an AWS account** and understanding its **IAM (Identity and Access Management) service**.
 
-AWS is a go-to platform for cloud computing, offering flexibility, scalability, and security for businesses and developers. Whether you're new to cloud technology or aiming to enhance your DevOps expertise, this series will equip you with practical knowledge and skills. 🚀
+AWS is a go-to platform for cloud computing, offering flexibility, scalability, and security for businesses and developers. Whether you're new to cloud technology or aiming to enhance your DevOps expertise, this series will equip you with practical knowledge and skills. 
 
 ----------
 
