@@ -1,4 +1,5 @@
 # Introduction to AWS and IAM Service
+
 ### **Welcome to the World of AWS! 🌍**
 
 Today marks the beginning of an exciting journey into **Amazon Web Services (AWS)**—a platform that powers some of the most innovative companies worldwide. Over the next 10-15 days, we’ll explore AWS step-by-step, starting with the basics: **Creating an AWS account** and understanding its **IAM (Identity and Access Management) service**.
