@@ -1,5 +1,5 @@
 # Launching an EC2 Instance on AWS : A Practical Guide
-Welcome to  **Day 37**  of my 100 Days of DevOps Journey! Today, we dive into the world of AWS, specifically learning how to create an  **EC2 instance**  while understanding the foundational concepts of regions, availability zones, and more.
+Welcome to  **Day 37**  of my 100 Days of DevOps Journey! Today, we dive into the world of AWS, specifically learning how to create an  **EC2 instance**  while understanding the foundational concepts of regions, availability zones, and more .
 
 ----------
 
