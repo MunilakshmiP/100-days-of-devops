@@ -1,4 +1,5 @@
 ## Understanding Virtual Private Cloud (VPC) in AWS
+
 ### **Key Takeaway:**
 
 A **Virtual Private Cloud (VPC)** is a logically isolated section within the AWS cloud, where resources like servers and applications are securely managed. AWS VPC was introduced to solve security issues in shared resource environments, offering a secure and private network to deploy applications.
