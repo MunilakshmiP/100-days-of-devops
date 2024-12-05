@@ -173,9 +173,6 @@ Let’s implement what we’ve learned by creating a VPC, launching an EC2 insta
 
 1.  Open your browser and navigate to:
     
-    Copy
-    
-    Copy
     
     ```
      http://<public-ip-address>:8000
@@ -195,10 +192,7 @@ Let’s implement what we’ve learned by creating a VPC, launching an EC2 insta
 ### [](https://100daysdevops.hashnode.dev/day-41-of-100-days-understanding-vpcs-security-groups-and-nacls-in-aws#heading-step-5-test-application-behavior-post-configuration "Permalink")Step 5:  **Test Application Behavior Post Configuration**
 
 1.  After updating security groups and testing NaCl rules, access the application again via:
-    
-    Copy
-    
-    Copy
+   
     
     ```
      http://<public-ip-address>:8000
