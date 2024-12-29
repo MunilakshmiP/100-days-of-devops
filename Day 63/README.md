@@ -1,3 +1,5 @@
+# Secret Management on AWS – Simplified and Secure!
+
 Hello, awesome learners! 🎉 Welcome to  **Day 63**  of my  **100 Days of DevOps journey**. Today, let’s unravel one of the most intriguing and  _most-asked topics in interviews_:  **Secret Management**  on AWS. Don’t worry, I’ll keep it simple, fun, and insightful with examples to make this knowledge stick!
 
 ----------
