@@ -1,4 +1,4 @@
-###  Getting into Terraform: Stories, Concepts, and Scaling with Modules
+#  Getting into Terraform: Stories, Concepts, and Scaling with Modules
 
 Welcome back to Day 72 of my 100 Days of DevOps journey! 🎉 Today, I’m diving into **Terraform** with stories and practical examples to make it easier to get started. Terraform is like the architect of your infrastructure — defining what gets built, where, and how. Let’s explore how you can master Terraform through relatable stories, key concepts, and hands-on learning.
 
