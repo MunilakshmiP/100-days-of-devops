@@ -1,4 +1,4 @@
-# The _Ops-tastic_ World of DevOps – AIOps, MLOps, GitOps, and More!🚀
+# The _Ops-tastic_ World of DevOps – AIOps, MLOps, GitOps, and More!
 
 Welcome back to my **100 Days of DevOps** journey! 🎉 Yesterday, we dove deeper into Terraform with some workspace wizardry. Today, we’re going on a joyride through the expansive "_Ops_" universe. 🌌 Buckle up, because it’s about to get fun, insightful, and a little bit quirky!
 
