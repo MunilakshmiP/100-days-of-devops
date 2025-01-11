@@ -1,4 +1,5 @@
 #Terraform Providers 🎉
+
 Hello, fellow DevOps enthusiasts! Today, we’re diving into the world of Terraform providers. This journey is all about understanding how Terraform interacts with the services we’re building infrastructure on. Let’s explore this exciting topic with some simple, fun examples and explanations!
 
 ## What is a Terraform Provider?
