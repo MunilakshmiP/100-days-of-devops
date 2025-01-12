@@ -1,4 +1,4 @@
-# Day 78 of 100 Days : Mastering Terraform Variables and Best Practices
+#  Mastering Terraform Variables and Best Practices
 
 Hello, DevOps enthusiasts! Today, let’s explore a key aspect of Terraform that will elevate your infrastructure-as-code (IaC) skills: **variables, conditional expressions, and file structuring best practices**. Whether you’re deploying resources on AWS, Azure, or any cloud provider, mastering these concepts will make your Terraform journey smooth and enjoyable.
 
