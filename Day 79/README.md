@@ -1,5 +1,5 @@
 # Terraform Modules
-Today, we’ll dive into  **Terraform Modules**  and understand why they are a game-changer for infrastructure as code. I’ve also prepared a practical demo to illustrate how modules simplify and enhance infrastructure management. You can find the code for this blog in my  [GitHub repository](https://github.com/MunilakshmiP/Terraform_projects.git).([https://github.com/MunilakshmiP/Terraform_projects.git](https://github.com/MunilakshmiP/Terraform_projects.git))
+Today, we’ll dive into  **Terraform Modules**  and understand why they are a game-changer for infrastructure as code. I’ve also prepared a practical demo to illustrate how modules simplify and enhance infrastructure management. You can find the code for this blog in my  [GitHub repository](https://github.com/MunilakshmiP/Terraform_projects.git).([https://github.com/MunilakshmiP/Terraform_projects.git]
 
 ----------
 
@@ -179,6 +179,6 @@ provider "aws" {
     
 -   **Think modular**: Start breaking down your Terraform configurations into modules.
     
--   **Check out the repo**: All the files are in my  [GitHub repositor](https://github.com/MunilakshmiP/Terraform_projects.git)  [https://github.com/MunilakshmiP/Terraform_projects.git](https://github.com/MunilakshmiP/Terraform_projects.git)
+-   **Check out the repo**: All the files are in my  [GitHub repositor](https://github.com/MunilakshmiP/Terraform_projects.git)  [https://github.com/MunilakshmiP/Terraform_projects.git]
     
     Happy Terraforming! See you on Day 80! 🌟
